@@ -3,3 +3,10 @@ docker build -t java-student-app .
   kubectl apply -f deployment.yaml
   kubectl get pods
 kubectl logs -l app=analytics-app
+
+
+for docker
+create Dockerfile and add the code
+
+for kubernets
+create deployement.yaml and service.yaml
