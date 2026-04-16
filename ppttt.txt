@@ -1,0 +1,45 @@
+I am building a Student Performance Analytics System using Java and DevOps tools.
+
+Please generate a complete step-by-step solution with correct code and commands for the following:
+
+1. Create a Maven-based Java application with standard directory structure.
+
+2. Write Java code to:
+
+   * Input or define marks for 5 students (CAT - 30, Assignment - 20, FAT - 50)
+   * Calculate total marks
+   * Compute CGPA
+   * Assign grades
+   * Identify the topper
+   * Print performance insights
+
+3. Provide a correct pom.xml configuration with main class setup.
+
+4. Provide all Git commands to:
+
+   * Initialize repository
+   * Add, commit, and push code to GitHub
+
+5. Provide Docker setup:
+
+   * Correct Dockerfile
+   * Commands to build and run Docker image
+
+6. Provide Jenkins pipeline script:
+
+   * Clone from GitHub
+   * Build using Maven
+   * Build Docker image
+   * Run container
+
+7. Provide Kubernetes configuration:
+
+   * deployment.yaml
+   * service.yaml (if applicable)
+   * Commands to deploy and check logs
+
+8. Ensure the application works without manual input (no Scanner input), suitable for Docker and Jenkins execution.
+
+9. Provide all commands in correct order and ensure there are no errors.
+
+Give everything in a clean, well-structured format suitable for creating a Word document submission.
