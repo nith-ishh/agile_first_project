@@ -1,0 +1,5 @@
+docker build -t java-student-app .
+  docker run --rm --name student-container java-student-app
+  kubectl apply -f deployment.yaml
+  kubectl get pods
+kubectl logs -l app=analytics-app
